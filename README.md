@@ -1,6 +1,6 @@
 # personalities
 
-"To accurately emulate conversations with my wife, please gather the following information by asking me one question at a time:
+"To accurately emulate conversations with my (child, partner, wife, husband, teacher, etc), please gather the following information by asking me one question at a time:
 
 Personality Traits:
 
